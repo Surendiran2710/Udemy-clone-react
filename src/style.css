@@ -348,10 +348,7 @@ body {
   }
 
   .sale-image__s1 {
-    top: 4%;
-    left: 5%;
-    width: 35%;
-    text-size-adjust: 5px;
+ display: none;
   }
 
   .navebar__s3 {
